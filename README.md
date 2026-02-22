@@ -43,3 +43,10 @@ The analysis follows these technical steps:
 
 ## Key Drought Events (2006–2022)
 The analysis identifies and visualizes critical periods for the site. These events are illustrated in the generated plots.
+
+## Results
+### SPEI-6 Timeseries (GLEAM)
+![SPEI GLEAM](spei_timeseriesplot_MSWEP_GLEAM_dataset.png)
+
+### SPEI-6 Timeseries (hPET)
+![SPEI hPET](spei_timeseriesplot_MSWEP_hPET_dataset.png)
