@@ -7,7 +7,10 @@ The analysis uses the Hydro‑JULES Global High‑Resolution Drought Dataset to 
 
 ## Source Information
 - **Source:** [CEDA Archive](https://archive.ceda.ac.uk/) (UKCEH / Met Office)
-- **Dataset:** Hydro‑JULES Global High‑Resolution Drought Dataset (v1 & v2)
+- **Primary Dataset:** Hydro‑JULES Global High‑Resolution Drought Dataset (v1 & v2)
+- **Input Components:** 
+  - **MSWEP:** Multi-Source Weighted-Ensemble Precipitation
+  - **GLEAM / hPET:** Global Land Evapotranspiration Amsterdam Model / Potential Evapotranspiration datasets.
 - **CEDA Catalogue Links:**
   - [Version 1 (1901-2019)](https://catalogue.ceda.ac.uk/uuid/ac43da11867243a1bb414e1637802dec/)
   - [Version 2 (up to 2022)](https://catalogue.ceda.ac.uk/uuid/e652f0109f21401680bc3c0ac834a96e/)
